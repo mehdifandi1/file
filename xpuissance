@@ -1,0 +1,19 @@
+package main
+
+import "fmt"
+
+func main() {
+
+	var n, p, e int
+	fmt.println(nombre)
+	fmt.Scanln(&n)
+	fmt.println(exposant)
+	fmt.Scanln(&e)
+	p = 1
+	for i := 1; i <= n; i++ {
+		p = p * n
+
+	}
+	fmt.println("produit", p)
+
+}
