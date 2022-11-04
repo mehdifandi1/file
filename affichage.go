@@ -11,5 +11,6 @@ func main() {
 			fmt.Println("*")
 		}
 		fmt.Println()
+		hgfdhfghg
 	}
 }
